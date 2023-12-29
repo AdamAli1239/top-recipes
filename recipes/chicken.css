@@ -1,0 +1,14 @@
+#main{
+    background-color:green;
+    color:lightblue;
+    
+}
+.titles{
+    text-align:center;
+    background-color:aqua;
+    color:brown;
+}
+.text{
+    font-size:22px;
+    color:maroon;
+}
