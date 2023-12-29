@@ -1,0 +1,16 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.titles{
+    text-align:center;
+}
+h1{
+    background-color:blue;
+    color:burlywood;
+}
+h2{
+    background-color:red;
+}
+h3{
+    background-color:green;
+}
